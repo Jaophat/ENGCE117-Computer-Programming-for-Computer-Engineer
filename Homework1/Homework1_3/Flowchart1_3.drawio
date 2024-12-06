@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
+  <diagram name="หน้า-1" id="xkFGz1B333f4EYOwD2vA">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avK9-TU5R251Wpm8B7sA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avK9-TU5R251Wpm8B7sA-1" target="avK9-TU5R251Wpm8B7sA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avK9-TU5R251Wpm8B7sA-2" target="avK9-TU5R251Wpm8B7sA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-2" value="กำหนดให้ชื่อจริงและนามสุกลเป็นตัวแปรชนิดตัวหนังสือ" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="190" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avK9-TU5R251Wpm8B7sA-4" target="avK9-TU5R251Wpm8B7sA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-4" value="รับค่า ชื่อจริง" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="330" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avK9-TU5R251Wpm8B7sA-6" target="avK9-TU5R251Wpm8B7sA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-6" value="รับค่า นามสุกล" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="470" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avK9-TU5R251Wpm8B7sA-8" target="avK9-TU5R251Wpm8B7sA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-8" value="แสดงผล ชื่อจริง และ นามสกุล พร้อมทั้งต่อท้าย&lt;div&gt;ด้วยประโยคที่ต้องการแสดง&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="294" y="610" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avK9-TU5R251Wpm8B7sA-10" target="avK9-TU5R251Wpm8B7sA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-10" value="คืนค่าเริ่มต้นและจบการทำงาน" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" y="750" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avK9-TU5R251Wpm8B7sA-12" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="870" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
